@@ -24,6 +24,8 @@ MLP:
 
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/71953974/130694352-dbe64612-9393-4171-819f-23555b4317fb.png">
 
+### 2.2. Training on semantic_category
+semantic_category 
 
 # Compatibility_Learning_StyleGan
 Compatibility Learning 
