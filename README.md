@@ -13,12 +13,15 @@ We use the compatibility list provided in the polyvore dataset. This list includ
 We train a Decision Tree, a Logistic Regression, and a MLP network on this training set (cat_id_importance_eval.py). The results show no better than random prediction for all three models.
 
 Decision Tree:
+
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/71953974/130694146-ead84976-d5e8-4355-bef7-c08422a40841.png">
 
 Logistic Regression:
+
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/71953974/130694283-58f08ece-b7a6-48a5-85a6-840da16bdc44.png">
 
 MLP:
+
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/71953974/130694352-dbe64612-9393-4171-819f-23555b4317fb.png">
 
 
